@@ -1,0 +1,15 @@
+.todo-list {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .todo-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+  
